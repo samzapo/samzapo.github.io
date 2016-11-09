@@ -1,0 +1,6 @@
+{
+  "name": "Samzapo.GitHub.io",
+  "tagline": "",
+  "body": "### Open source software:\r\n\r\n#### My personal projects:\r\n\r\n##### <a href=\"https://github.com/PositronicsLab/Pacer\" target=\"_blank\">Pacer</a>: A modular, real-time control library (c++) for legged robot control and locomotion.\r\n\r\n#### Projects I contribute to:\r\n\r\n##### <a href=\"http://positronicslab.github.io/Moby/\" target=\"_blank\">Moby</a>: A multi-rigid body simulator (c++)\r\n\r\n##### <a href=\"https://github.com/PositronicsLab/Ravelin\" target=\"_blank\">Ravelin</a>: A linear algebra and dynamics library (c++) for robotics\r\n\r\n### Research history:\r\n\r\n#### <a href=\"https://github.com/PositronicsLab/Ravelin\" target=\"_blank\">Positronics Lab</a>\r\nGeorge Washington University\r\n: Ph.D. Candidate\r\n: September 2012 – Present\r\n: Washington, DC\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
