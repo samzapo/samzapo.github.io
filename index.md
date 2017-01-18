@@ -1,7 +1,7 @@
 ### Publications 
 
 #### Publications in legged robotic locomotion
-Bradley Canaday, Samuel Zapolsky, Evan M. Drumwright, "Interactive, Iterative Robot Design", <i>IEEE International Conference on Robotics and Automation</i> (<i>in review</i>ICRA). Singapore, May 2017. [<a href="http://positronicslab.github.io/assets/pdfs/CZD16.pdf">Canaday2016</a>]
+Bradley Canaday, Samuel Zapolsky, Evan M. Drumwright, "Interactive, Iterative Robot Design", <i>IEEE International Conference on Robotics and Automation</i> (ICRA). Singapore, May 2017. [<a href="http://positronicslab.github.io/assets/pdfs/CZD16.pdf">Canaday2016</a>]
 
 John Shepherd, Samuel Zapolsky, and Evan M. Drumwright, "Fast multi-body simulations of robots controlled with error feedback", <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="http://positronicslab.github.io/assets/pdfs/SZD16.pdf">SZD16.pdf</a>]
 
