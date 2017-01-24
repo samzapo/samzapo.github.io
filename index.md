@@ -1,6 +1,10 @@
+## Samuel Zapolsky's Homepage     |      Positronics Lab @ GWU
+![GWU 2016](https://samzapo.github.io/images/samzapo-small.jpg)
+
 ### Publications 
 
-#### Publications in legged robotic locomotion
+#### **Publications in legged robotic locomotion**
+
 Bradley Canaday, Samuel Zapolsky, Evan M. Drumwright, "Interactive, Iterative Robot Design", <i>IEEE International Conference on Robotics and Automation</i> (ICRA). Singapore, May 2017. [<a href="http://positronicslab.github.io/assets/pdfs/CZD16.pdf">Canaday2016</a>]
 
 John Shepherd, Samuel Zapolsky, and Evan M. Drumwright, "Fast multi-body simulations of robots controlled with error feedback", <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="http://positronicslab.github.io/assets/pdfs/SZD16.pdf">SZD16.pdf</a>]
@@ -17,7 +21,8 @@ Samuel Zapolsky and Evan M. Drumwright. "Quadratic Programming-Based Inverse Dyn
 
 Samuel Zapolsky, Evan M. Drumwright, Ioannis Havoutis, Jonas Buchli, and Claudio Semini. "Inverse Dynamics for a Quadruped Robot Locomoting Along Slippery Surfaces". <i>Proc. 16th Intl. Conf. on Climbing and Walking Robots (CLAWAR)</i>, Sydney, Australia, July 2013. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/08/Zapolsky2013.pdf">Zapolsky2013</a>]
 
-#### Publications in robotic simulation 
+#### **Publications in robotic simulation**
+
 Samuel Zapolsky, Evan M. Drumwright, "Adaptive Integration for Controlling Speed vs. Accuracy in Multi-Rigid Body Simulation", <i>The 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2015)</i>, Hamburg, Germany, Sep 2015. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/08/IROS2015-Zapolsky.pdf">Zapolsky2015a</a>]
 
 ### Open source software:
@@ -39,3 +44,5 @@ George Washington University
 : Ph.D. Candidate
 : September 2012 – Present
 : Washington, DC
+
+[My Resume](https://samzapo.github.io/images/samzapo-resume.pdf)
