@@ -31,18 +31,27 @@ Samuel Zapolsky, Evan M. Drumwright, "Adaptive Integration for Controlling Speed
 
 ##### <a href="https://github.com/PositronicsLab/Pacer" target="_blank">Pacer</a>: A modular, real-time control library (c++) for legged robot control and locomotion.
 
-#### Projects I contribute to:
+#### Projects I contribute to @ [Positronics Lab](https://github.com/PositronicsLab)
 
 ##### <a href="http://positronicslab.github.io/Moby/" target="_blank">Moby</a>: A multi-rigid body simulator (c++)
 
 ##### <a href="https://github.com/PositronicsLab/Ravelin" target="_blank">Ravelin</a>: A linear algebra and dynamics library (c++) for robotics
 
-### Research history:
+### Work history:
 
-#### <a href="https://github.com/PositronicsLab/Ravelin" target="_blank">Positronics Lab</a>
+#### [Positronics Lab](https://PositronicsLab.github.io)
 George Washington University
-: Ph.D. Candidate
-: September 2012 – Present
+: Ph.D. Candidate | September 2012 – Present
 : Washington, DC
+Advisor: [Evan Drumwright](http://edrumwri.github.io/)
+
+#### [Italian Institute of Technology: Department of Advanced Robotics](https://www.iit.it/research/lines/advanced-robotics)
+[Dynamic Legged Systems Lab](https://www.iit.it/en/advr-labs/dynamic-legged-systems.html)
+Visiting Researcher | July 2012 – Sep 2012
+Genoa, Italy
+Mentors: Jonas Buchli & Claudio Semini
 
 [My Resume](https://samzapo.github.io/images/samzapo-resume.pdf)
+
+### Research at-a-glance:
+<iframe width="480" height="234" src="http://positronicslab.github.io/blog/robot-demos/" style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);"></iframe>
