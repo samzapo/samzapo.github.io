@@ -51,7 +51,6 @@ Visiting Researcher | July 2012 – Sep 2012
 Genoa, Italy
 Mentors: Jonas Buchli & Claudio Semini
 
-[My Resume](https://samzapo.github.io/images/samzapo-resume.pdf)
+#### [My Resume](https://samzapo.github.io/images/samzapo-resume.pdf)
 
-### Research at-a-glance:
-<iframe width="480" height="234" src="http://positronicslab.github.io/blog/robot-demos/" style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);"></iframe>
+#### [Research at-a-glance](http://positronicslab.github.io/blog/robot-demos/)
