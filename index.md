@@ -39,25 +39,20 @@ Samuel Zapolsky, Evan M. Drumwright, "Adaptive Integration for Controlling Speed
 
 ### Work history:
 
-#### [Positronics Lab](https://PositronicsLab.github.io)
-
-    George Washington University
-    Ph.D. Candidate 
-    September 2012 – Present
-    Washington, DC
-    
-   Advisor: [Evan Drumwright](http://edrumwri.github.io/)
+[**Positronics Lab**](https://PositronicsLab.github.io) <br />
+George Washington University <br />
+Ph.D. Candidate <br />
+September 2012 – Present <br />
+Washington, DC <br />
+Advisor: [Evan Drumwright](http://edrumwri.github.io/)
  
 
-#### [Dynamic Legged Systems Lab](https://www.iit.it/en/advr-labs/dynamic-legged-systems.html)
-
-   [Italian Institute of Technology: Department of Advanced Robotics](https://www.iit.it/research/lines/advanced-robotics)
-    
-    Visiting Researcher 
-    July 2012 – Sep 2012
-    Genoa, Italy
-    
-   Mentors: Jonas Buchli & Claudio Semini
+[**Dynamic Legged Systems Lab**](https://www.iit.it/en/advr-labs/dynamic-legged-systems.html) <br />
+[Italian Institute of Technology: Department of Advanced Robotics](https://www.iit.it/research/lines/advanced-robotics) <br />
+Visiting Researcher <br />
+July 2012 – Sep 2012 <br />
+Genoa, Italy <br />
+Mentors: Jonas Buchli & Claudio Semini
 
 ### [My Resume](https://samzapo.github.io/images/samzapo-resume.pdf)
 
