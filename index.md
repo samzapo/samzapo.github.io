@@ -1,6 +1,8 @@
 ## Samuel Zapolsky's Homepage     |      Positronics Lab @ GWU
 ![GWU 2016](https://samzapo.github.io/images/samzapo-small.jpg)
 
+My name is Samuel Zapolsky and I am a Ph. D. student studying robotics in Evan Drumwright’s lab at GWU.  My work in robotics has focused on control and simulation for quadrupedal robots (of which I have constructed several successful physical designs), and my dissertation focuses on using multi-body dynamics simulation toward effective planning and morphological design for physically situated robots.  
+
 ## Publications 
 
 ### **Publications in legged robotic locomotion**
@@ -29,7 +31,9 @@ Samuel Zapolsky, Evan M. Drumwright, "Adaptive Integration for Controlling Speed
 
 ### My personal projects:
 
-[Pacer](https://github.com/PositronicsLab/Pacer): A modular, real-time control library (c++) for legged robot control and locomotion.
+**[Pacer](https://github.com/PositronicsLab/Pacer): A modular, real-time control library (c++) for legged robot control and locomotion.**
+
+When developing Pacer, I strove to deliver the complexity of legged locomotion in an easy to control package, like a remote-controlled car, with the open research problems of foot placement and balancing tackled under-the-hood in easily upgradeable and swappable modules.  
 
 #### Projects I contribute to @ [Positronics Lab](https://github.com/PositronicsLab)
 
@@ -58,7 +62,7 @@ Mentors: Jonas Buchli & Claudio Semini
 
 ## Research Overview:
 
-[**Research at-a-glance**](http://positronicslab.github.io/blog/robot-demos/)
+**[Research at-a-glance](http://positronicslab.github.io/blog/robot-demos/)**
 
 [Inverse Dynamics with Contact Force Prediction](http://positronicslab.github.io/blog/inverse-dynamics/)
 
