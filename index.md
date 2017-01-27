@@ -1,9 +1,9 @@
 ## Samuel Zapolsky's Homepage     |      Positronics Lab @ GWU
 ![GWU 2016](https://samzapo.github.io/images/samzapo-small.jpg)
 
-### Publications 
+## Publications 
 
-#### **Publications in legged robotic locomotion**
+### **Publications in legged robotic locomotion**
 
 Bradley Canaday, Samuel Zapolsky, Evan M. Drumwright, "Interactive, Iterative Robot Design", <i>IEEE International Conference on Robotics and Automation</i> (ICRA). Singapore, May 2017. [<a href="http://positronicslab.github.io/assets/pdfs/CZD16.pdf">Canaday2016</a>]
 
@@ -21,23 +21,23 @@ Samuel Zapolsky and Evan M. Drumwright. "Quadratic Programming-Based Inverse Dyn
 
 Samuel Zapolsky, Evan M. Drumwright, Ioannis Havoutis, Jonas Buchli, and Claudio Semini. "Inverse Dynamics for a Quadruped Robot Locomoting Along Slippery Surfaces". <i>Proc. 16th Intl. Conf. on Climbing and Walking Robots (CLAWAR)</i>, Sydney, Australia, July 2013. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/08/Zapolsky2013.pdf">Zapolsky2013</a>]
 
-#### **Publications in robotic simulation**
+### **Publications in robotic simulation**
 
 Samuel Zapolsky, Evan M. Drumwright, "Adaptive Integration for Controlling Speed vs. Accuracy in Multi-Rigid Body Simulation", <i>The 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2015)</i>, Hamburg, Germany, Sep 2015. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/08/IROS2015-Zapolsky.pdf">Zapolsky2015a</a>]
 
-### Open source software:
+## Open source software:
 
-#### My personal projects:
+### My personal projects:
 
-##### <a href="https://github.com/PositronicsLab/Pacer" target="_blank">Pacer</a>: A modular, real-time control library (c++) for legged robot control and locomotion.
+[Pacer](https://github.com/PositronicsLab/Pacer): A modular, real-time control library (c++) for legged robot control and locomotion.
 
 #### Projects I contribute to @ [Positronics Lab](https://github.com/PositronicsLab)
 
-##### <a href="http://positronicslab.github.io/Moby/" target="_blank">Moby</a>: A multi-rigid body simulator (c++)
+[Moby](http://positronicslab.github.io/Moby/): A multi-rigid body simulator (c++)
 
-##### <a href="https://github.com/PositronicsLab/Ravelin" target="_blank">Ravelin</a>: A linear algebra and dynamics library (c++) for robotics
+[Ravelin](https://github.com/PositronicsLab/Ravelin): A linear algebra and dynamics library (c++) for robotics
 
-### Work history:
+## Work history:
 
 [**Positronics Lab**](https://PositronicsLab.github.io) <br />
 George Washington University <br />
@@ -56,7 +56,17 @@ Mentors: Jonas Buchli & Claudio Semini
 
 ### [My Resume](https://samzapo.github.io/images/samzapo-resume.pdf)
 
-### [Research at-a-glance](http://positronicslab.github.io/blog/robot-demos/)
+## Research Overview:
+
+[**Research at-a-glance**](http://positronicslab.github.io/blog/robot-demos/)
+
+[Inverse Dynamics with Contact Force Prediction](http://positronicslab.github.io/blog/inverse-dynamics/)
+
+[Adaptive Integration for Controlling Speed vs. Accuracy in Multi-Rigid Body Simulation](http://positronicslab.github.io/blog/adaptive-integration/)
+
+[High-level Quadruped Control (Joystick)](http://positronicslab.github.io/blog/joystick-quadruped-control/)
+
+[Running with a simulated quadruped](http://positronicslab.github.io/blog/running-quadruped/)
 
 ## Contact Info
 
