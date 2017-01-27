@@ -57,3 +57,8 @@ Mentors: Jonas Buchli & Claudio Semini
 ### [My Resume](https://samzapo.github.io/images/samzapo-resume.pdf)
 
 ### [Research at-a-glance](http://positronicslab.github.io/blog/robot-demos/)
+
+## Contact Info
+
+Email: [samzapo@gmail.com](mailto:samzapo@gmail.com) <br />
+[LinkedIn](https://www.linkedin.com/in/samzapolsky)
