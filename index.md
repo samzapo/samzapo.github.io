@@ -23,7 +23,7 @@ My name is Samuel Zapolsky and I am a Ph. D. student studying robotics in Evan D
 
 When developing Pacer, I strove to deliver the complexity of legged locomotion in an easy to control package, like a remote-controlled car, with the open research problems of foot placement and balancing tackled under-the-hood in easily upgradeable and swappable modules.  
 
-#### Projects I contribute to @ [Positronics Lab](https://github.com/PositronicsLab)
+### Projects I contribute to @ [Positronics Lab](https://github.com/PositronicsLab)
 
 [Moby](http://positronicslab.github.io/Moby/): A multi-rigid body simulator (c++)
 
