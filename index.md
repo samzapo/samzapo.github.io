@@ -1,13 +1,13 @@
 ## Samuel Zapolsky's Homepage     |      Positronics Lab @ GWU
 ![GWU 2016](https://samzapo.github.io/images/samzapo-small.jpg)
 
-My name is Samuel Zapolsky and I am a Ph. D. student studying robotics in Evan Drumwright’s lab at GWU.  
+My name is Samuel Zapolsky and I was a Ph. D. student studying robotics in Evan Drumwright’s lab at GWU.  
 
-My research is focused on how to get robot behavior in simulation to match reality (and vice versa)
+My research is focused on discovering how to get robot behavior in simulation to match reality——and vice versa.
 
 My work in robotics has focused on control and simulation for quadrupedal robots (of which I have constructed several successful physical designs).
 
-My dissertation describes a method of discovering what circumstances make robots fail and then using simulted tools to modify a robot or its control system to prevent those things from happening in the future—hopefully leading to a better, more robust robot.
+I just recently (Feb 24) successfully defended my dissertation on discovering what circumstances make robots fail and then using simulted tools to modify a robot or its control system to prevent those things from happening in the future——hopefully leading to a better, more robust robot.
 
 ## Research Overview:
 
