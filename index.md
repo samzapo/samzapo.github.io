@@ -63,10 +63,16 @@ Samuel Zapolsky, Evan M. Drumwright, "Adaptive Integration for Controlling Speed
 
 ## Work history:
 
+[**Toyota Research Institute**](http://www.tri.global/) <br />
+Research Scientist / Roboticist <br />
+2017 – Present <br />
+Palo Alto, CA
+
+
 [**Positronics Lab**](https://PositronicsLab.github.io) <br />
 George Washington University <br />
 Ph.D. Candidate <br />
-September 2012 – Present <br />
+September 2012 – February 2017 <br />
 Washington, DC <br />
 Advisor: [Evan Drumwright](http://edrumwri.github.io/)
 
