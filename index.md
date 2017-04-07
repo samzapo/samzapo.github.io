@@ -7,7 +7,7 @@ My work in robotics has focused on control and simulation for quadrupedal robots
 
 I earned my Ph. D. while studying robotics in Evan Drumwright’s [**Positronics Lab**](https://PositronicsLab.github.io) at GWU.  
 
-My dissertation work focused on discovering what circumstances make robots fail and then using simulted tools to modify a robot or its control system to prevent those failures from happening in the future, leading to a better and more robust robots.
+My [dissertation](http://positronicslab.github.io/assets/pdfs/Z17.pdf) focused on discovering what circumstances make robots fail and then using simulted tools to modify a robot or its control system to prevent those failures from happening in the future, leading to a better and more robust robots.
 
 ## Research Overview:
 
