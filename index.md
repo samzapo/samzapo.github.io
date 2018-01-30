@@ -47,7 +47,7 @@ Samuel Zapolsky, Evan M. Drumwright, "Particle Traces for Detecting Divergent Ro
 
 Samuel Zapolsky and  Evan M. Drumwright, "Detecting divergent robot behavior with multi-rigid body simulation and random sampling", <i>The Dynamic Walking Conference (DW 2016)</i>, Holly, MI, June 2016. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2016/06/Zapolsky_2016_DW.pdf">Zapolsky2016</a>]
 
-Samuel Zapolsky, Evan M. Drumwright, "Inverse Dynamics with Rigid Contact and Friction", <i>Auton Robot</i>, 2016. [<a href="http://positronicslab.github.io/assets/pdfs/inverse-dynamics.pdf">Zapolsky2015b</a>]
+Zapolsky, S. & Drumwright, E.,"Inverse dynamics with rigid contact and friction", <i>Autonomous Robots</i>, 2017, 41, 831-863 [<a href="http://positronicslab.github.io/assets/pdfs/inverse-dynamics.pdf">Zapolsky2017</a>]
 
 Samuel Zapolsky and  Evan M. Drumwright, "Pacer: Modular, real-time software for legged robot planning and control", <i>The Dynamic Walking Conference (DW 2015)</i>, Columbus, Ohio, July 2015. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/08/Zapolsky_2015_DW.pdf">Zapolsky2015</a>]
 
