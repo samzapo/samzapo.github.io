@@ -1,7 +1,13 @@
-## Samuel Zapolsky's Homepage     |      Positronics Lab @ GWU
+## Samuel Zapolsky Ph.D. Homepage
 ![GWU 2016](https://samzapo.github.io/images/samzapo-small.jpg)
 
-My research is focused on discovering how to get robot behavior in simulation to match reality—and vice versa.
+## Recent Info
+
+I am currently a Research Scientist at Toyota Research Institute (TRI) working on the Shared Autonomy (Robotics) Team.
+
+## About Me
+
+My research is focused on bridging the gap between simulation and reality.
 
 My work in robotics has focused on control and simulation for quadrupedal robots (of which I have constructed several successful physical designs).
 
@@ -35,7 +41,7 @@ When developing Pacer, I strove to deliver the complexity of legged locomotion i
 
 [Ravelin](https://github.com/PositronicsLab/Ravelin): A linear algebra and dynamics library (c++) for robotics
 
-## Publications 
+## Publications (--2017)
 
 ### **Legged robotic locomotion**
 
@@ -62,9 +68,9 @@ Samuel Zapolsky, Evan M. Drumwright, "Adaptive Integration for Controlling Speed
 ## Work history:
 
 [**Toyota Research Institute**](http://www.tri.global/) <br />
-Research Scientist / Roboticist <br />
-2017 – Present <br />
-Palo Alto, CA
+Research Scientist <br />
+April 2017 – Present <br />
+Los Altos, CA
 
 
 [**Positronics Lab**](https://PositronicsLab.github.io) <br />
@@ -87,4 +93,5 @@ Mentors: Jonas Buchli & Claudio Semini
 ## Contact Info
 
 Email: [samzapo@gmail.com](mailto:samzapo@gmail.com) <br />
+Work Email: [sam.zapolsky@tri.global](mailto:sam.zapolsky@tri.global) <br />
 [LinkedIn](https://www.linkedin.com/in/samzapolsky)
