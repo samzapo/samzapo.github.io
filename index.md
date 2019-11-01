@@ -3,7 +3,7 @@
 
 ## Recent Info
 
-I am currently a Research Scientist at Toyota Research Institute (TRI) working on the Shared Autonomy (Robotics) Team.
+I am currently co-founding a startup autonomous robotics company based out of the San Francisco Bay area.
 
 ## About Me
 
@@ -66,10 +66,14 @@ Samuel Zapolsky, Evan M. Drumwright, Ioannis Havoutis, Jonas Buchli, and Claudio
 Samuel Zapolsky, Evan M. Drumwright, "Adaptive Integration for Controlling Speed vs. Accuracy in Multi-Rigid Body Simulation", <i>The 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2015)</i>, Hamburg, Germany, Sep 2015. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/08/IROS2015-Zapolsky.pdf">Zapolsky2015a</a>]
 
 ## Work history:
+[**Dextrous Robotics**](https://dextrousrobotics.com) <br />
+CTO & Co-founder <br />
+June 2019 - present
+San Francisco Bay Area
 
 [**Toyota Research Institute**](http://www.tri.global/) <br />
 Research Scientist <br />
-April 2017 – Present <br />
+April 2017 – June 2019 <br />
 Los Altos, CA
 
 
@@ -92,6 +96,5 @@ Mentors: Jonas Buchli & Claudio Semini
 
 ## Contact Info
 
-Email: [samzapo@gmail.com](mailto:samzapo@gmail.com) <br />
-Work Email: [sam.zapolsky@tri.global](mailto:sam.zapolsky@tri.global) <br />
+Email: [samzapo[at]gmail.com](mailto:samzapo+github@gmail.com) <br />
 [LinkedIn](https://www.linkedin.com/in/samzapolsky)
