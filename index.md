@@ -8,7 +8,8 @@ I am currently the Co-founder and Chief Technology Officer at Dextrous Robotics,
 ## Dextrous Robotics
 
 Transforming Logistics with Advanced Robotics
-www.dextrousrobotics.com
+
+[www.dextrousrobotics.com](https://www.dextrousrobotics.com/)
 
 At Dextrous Robotics, our unwavering commitment to high-performance execution goes hand in hand with our relentless pursuit of innovation. What sets us apart is our mastery of contact-based bimanual manipulation— an advanced concept in robotics— that propels our robots into a league of their own.
 
