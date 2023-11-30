@@ -1,13 +1,22 @@
 ## Samuel Zapolsky Ph.D. Homepage
-![GWU 2016](https://samzapo.github.io/images/samzapo-small.jpg)
+![Samuel Zapolsky](https://samzapo.github.io/images/samzapo-small.jpg)
 
 ## Recent Info
 
-I am currently co-founding a startup autonomous robotics company based out of the San Francisco Bay area.
+I am currently the Co-founder and Chief Technology Officer at Dextrous Robotics, where I lead a team of highly skilled engineers dedicated to revolutionizing the logistics space through cutting-edge robotics solutions. At Dextrous Robotics, we develop high-performance robotic systems that redefine how we tackle logistics challenges. I guide our team in creating robust software and hardware components for strong, precise, and fast-moving robotic systems set to reshape the logistics landscape. Excited to be at the forefront of this dynamic industry, I thrive on leveraging my skills to drive significant advancements in the field of robotics.
+
+### Dextrous Robotics
+
+Transforming Logistics with Advanced Robotics
+www.dextrousrobotics.com
+
+At Dextrous Robotics, our unwavering commitment to high-performance execution goes hand in hand with our relentless pursuit of innovation. What sets us apart is our mastery of contact-based bimanual manipulation— an advanced concept in robotics— that propels our robots into a league of their own.
+
+We pride ourselves on being among the world's leading experts in developing and implementing these sophisticated systems. Our robots move heavy objects at remarkable speeds with unparalleled grace. 
 
 ## About Me
 
-My research is focused on bridging the gap between simulation and reality.
+My Ph.D. research was focused on bridging the gap between simulation and reality.
 
 My work in robotics has focused on control and simulation for quadrupedal robots (of which I have constructed several successful physical designs).
 
