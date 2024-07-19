@@ -25,6 +25,8 @@ I was Chief Technology Officer (CTO) and Co-founder of Dextrous Robotics, where 
 
 At Dextrous Robotics, we use high-performance robots to manipulate parcels by touch.  Our robots move heavy objects at remarkable speeds with unparalleled grace.  What sets our engineering team apart is our mastery of contact-based bimanual manipulation.  We pride ourselves on being among the world's leading experts in developing and implementing these sophisticated systems that put our robots into a league of their own.
 
+[![DX-1 Video](http://img.youtube.com/vi/ZtXuustzyqo/0.jpg)](https://youtu.be/ZtXuustzyqo&autoplay=1&mute=1)
+
 ## [**Toyota Research Institute**](http://www.tri.global/)
 Research Scientist <br />
 April 2017 – June 2019 <br />
